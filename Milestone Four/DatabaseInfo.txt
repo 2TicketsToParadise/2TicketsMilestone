@@ -1,0 +1,5 @@
+Two Tickets to Paradise
+Milestone Four
+
+
+We have selected to use a PostgreSQL Relational Database hosted on Heroku. 
